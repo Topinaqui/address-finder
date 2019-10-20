@@ -20,3 +20,24 @@
 .App-link {
   color: #09d3ac;
 }
+
+.address-searcher-container {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  background-color: #eeeeee;
+  width: 511px;
+  height: 100px;
+  padding: 10px;
+}
+
+
+.address-display-container {
+  background-color: #eeeeee;
+  height: 300px;
+  width: 511px;
+}
+
+.address-searcher-title {
+  position: relative;
+  float: left;
+}
